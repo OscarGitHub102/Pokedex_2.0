@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.lista{
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+}
+
+select {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    margin-top: 20px;
+    border: 1px solid #cbd5e1;
+    border-radius: 3px;
+    background-color: #f8f3f3;
+    font-size: 1rem;
+    font-family: inherit;
+    color: #1f2937;
+
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 20 20' fill='%239ca3af' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M5.23 7.21a.75.75 0 011.06.02L10 10.939l3.71-3.71a.75.75 0 111.06 1.06l-4.24 4.25a.75.75 0 01-1.06 0l-4.25-4.25a.75.75 0 01.02-1.06z' clip-rule='evenodd' /%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    background-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+select:hover {
+    border-color: #94a3b8;
+}
+
+select:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.3);
+}
+
+option{
+    background-color: #f8f3f3;
+}
+
+nav{
+    background-color: #f8f3f3;
+    margin-top: 15px;
+    padding: 1rem;
+    height: 695px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.pokemonList {
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center; /* Alinea verticalmente */
+    gap: 30px; /* Espacio entre imagen y texto */
+}
+
+.pokemonList img {
+    width: 60px; /* Tamaño pequeño */
+    height: auto;
+}
+
+.pokemonList p {
+    font-size: 22px;
+    text-align: left;
+    margin: 0; /* Elimina márgenes por defecto */
+}
