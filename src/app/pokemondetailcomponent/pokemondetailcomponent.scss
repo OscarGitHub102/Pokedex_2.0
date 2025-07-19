@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-
 .pokemonDetail{
     background-color: #C4CEE6;
     text-align: center;
@@ -15,22 +13,23 @@
 }
 
 .pokemonDetail h1 {
+  font-family: 'IBM Plex Sans';
   font-size: 2.5rem;
   margin-bottom: 1rem;
   color: black;
 }
 
 .pokemonDetail img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 1.5rem;
+  width: 300px;
+  height: 300px;
 }
 
 .info p {
+  font-family: 'IBM Plex Sans';
   font-size: 1.1rem;
   margin-bottom: 0.5rem;
 }
 
 .info strong {
-  color: #2563eb;
+  color: black;
 }

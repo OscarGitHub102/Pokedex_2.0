@@ -1,6 +1,9 @@
-<app-header-component></app-header-component>
+<app-header-component (searchEvent)="onSearchTermChange($event)"></app-header-component>
 <div class="layout">
-    <app-pokemon-list-component></app-pokemon-list-component>
-    <app-pokemondetailcomponent></app-pokemondetailcomponent>
+    <app-pokemon-list-component 
+      (pokemonSelected)="onPokemonSelected($event)"
+      [selectedPokemonInList]="selectedPokemon" >
+    </app-pokemon-list-component>
+    <app-pokemondetailcomponent [pokemon]="selectedPokemon"></app-pokemondetailcomponent>
 </div>
 <router-outlet />

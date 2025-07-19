@@ -1,52 +1,35 @@
 <div class="lista">
-    <select name="tipo" id="tipo">
+    <select name="tipo" id="tipo" (change)="onTypeChange($event)">
         <option value="all">TODOS</option>
         <option value="normal">NORMAL</option>
-        <option value="fighting">LUCHA</option>
-        <option value="flying">VOLADOR</option>
         <option value="fire">FUEGO</option>
+        <option value="water">AGUA</option>
+        <option value="electric">ELÉCTRICO</option>
+        <option value="grass">PLANTA</option>
+        <option value="ice">HIELO</option>
+        <option value="fighting">LUCHA</option>
+        <option value="poison">VENENO</option>
+        <option value="ground">TIERRA</option>
+        <option value="flying">VOLADOR</option>
+        <option value="psychic">PSÍQUICO</option>
+        <option value="bug">BICHO</option>
+        <option value="rock">ROCA</option>
+        <option value="ghost">FANTASMA</option>
+        <option value="dragon">DRAGÓN</option>
+        <option value="steel">ACERO</option>
+        <option value="fairy">HADA</option>
     </select>
 
     <nav>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png">
-            <p>Bulbasaur</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png">
-            <p>Charmander</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png">
-            <p>Squirtle</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png">
-            <p>Pikachu</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png">
-            <p>Jigglypuff</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png">
-            <p>Bulbasaur</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png">
-            <p>Charmander</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png">
-            <p>Squirtle</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png">
-            <p>Pikachu</p>
-        </div>
-        <div class="pokemonList">
-            <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png">
-            <p>Jigglypuff</p>
-        </div>
+        @for (pokemon of filteredPokemons; track pokemon.id) {
+            <div class="pokemonList" (click)="selectPokemon(pokemon)" [class.selected]="pokemon.id === selectedPokemonInList?.id">
+                <img [src]="pokemon.image" [alt]="pokemon.name">
+                <p>{{ pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1) }}</p>
+            </div>
+        } @empty {
+            <div class="no-results">
+                No se encontraron Pokémon con este filtro.
+            </div>
+        }
     </nav>
 </div>

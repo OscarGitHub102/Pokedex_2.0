@@ -6,7 +6,7 @@
     justify-content: space-between;
     height: 15vh;
     padding: 30px 80px;
-    background: linear-gradient(135deg, #ee6868 0%, #ebedee 100%);
+    background: linear-gradient(135deg, #C40C0C 0%, #ebedee 100%); /* Rojo más intenso aquí */
     border-bottom: 1px solid red;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
@@ -29,6 +29,7 @@
 }
 
 .search-input {
+    font-family: 'IBM Plex Sans';
     padding: 6px 10px;
     font-size: 14px;
     border: 1px solid #ccc;

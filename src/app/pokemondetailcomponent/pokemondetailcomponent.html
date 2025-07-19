@@ -1,11 +1,17 @@
-<div class="pokemonDetail">
-    <h1>BULBASAUR</h1>
-    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png" alt="Bulbasaur">
+@if(pokemon){
+    <div class="pokemonDetail" [style.background-color]="backgroundColor">
+        <h1>{{ pokemon.name }}</h1>
+        <img [src]="pokemon.image" [alt]="pokemon.name">
 
-    <div class="info">
-        <p><strong>Tipo:</strong> Planta / Veneno</p>
-        <p><strong>Altura:</strong> 0.7 m</p>
-        <p><strong>Peso:</strong> 6.9 kg</p>
-        <p><strong>Habilidades:</strong> Espesura, Clorofila (oculta)</p>
+        <div class="info">
+            <p><strong>ID:</strong> {{ pokemon.id }}</p>
+            <p><strong>Tipo:</strong>{{ " " + getPokemonTypes(pokemon.types) }}</p>
+            <p><strong>Altura:</strong> {{ pokemon.height / 10 }} m</p>
+            <p><strong>Peso:</strong> {{ pokemon.weight / 10 }} kg</p>
+        </div>
+    </div>   
+}@else {
+    <div class="pokemonDetail">
+        <p>Selecciona un Pokémon para ver sus detalles.</p>
     </div>
-</div>
+}
