@@ -1,5 +1,8 @@
 <header class="header-container">
   <img src="/assets/pokeball.png" alt="Logo" class="logo" />
   <h1 class="title">POKÉDEX</h1>
-  <input type="text" placeholder="Buscar Pokémon" class="search-input" (input)="onSearch($event)" />
+  <div class="input-container">
+    <input type="text" placeholder="Buscar Pokémon" class="search-input" (input)="onSearch($event)">
+    <i class="fas fa-search search-icon"></i>
+  </div>
 </header>

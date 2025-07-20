@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-
 .header-container {
     display: flex;
     align-items: center;
@@ -26,12 +24,29 @@
         -2px 2px 0 #3b4cca,
         2px 2px 0 #3b4cca;
     margin: 0;
+}    
+
+.input-container {
+    position: relative; /* Esencial para que el icono se posicione en relación a este contenedor */
+    width: 300px; /* O el ancho que necesites */
+    display: flex; /* Para alinear el input y el icono si lo deseas */
+    align-items: center; /* Centra verticalmente el icono */
 }
 
-.search-input {
+.input-container input {
     font-family: 'IBM Plex Sans';
-    padding: 6px 10px;
+    width: 100%;
+    padding: 10px 10px 10px 40px; /* El último valor (40px) es crucial para dejar espacio para el icono a la izquierda */
     font-size: 14px;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 5px;
+    box-sizing: border-box; /* Para que el padding y el border se incluyan en el ancho total */
+}
+
+.search-icon {
+    position: absolute; /* Permite posicionar el icono libremente dentro del contenedor */
+    left: 10px; /* Distancia desde el borde izquierdo del input */
+    color: #888; /* Color del icono */
+    font-size: 18px; /* Tamaño del icono (si es Font Awesome) */
+    pointer-events: none; /* Hace que el icono no sea clickeable, para que el click "pase a través" al input */
 }
