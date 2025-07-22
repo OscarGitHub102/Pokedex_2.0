@@ -55,7 +55,7 @@ nav{
 .pokemonList {
     box-shadow: 0 0 15px rgba(148, 163, 184, 0.6);
     background-color: white;
-    padding-left: 15px;
+    padding: 15px 30px;
     margin-bottom: 20px;
     border: 1px solid black;
     border-radius: 5px;
@@ -66,7 +66,7 @@ nav{
 }
 
 .pokemonList img {
-    width: 100px; /* Tamaño pequeño */
+    width: 70px; /* Tamaño pequeño */
     height: auto;
 }
 

@@ -14,7 +14,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 7,
     "weight": 69,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 10,
     "weight": 130,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 20,
     "weight": 1000,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 6,
     "weight": 85,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
   },
   {
     "id": 5,
@@ -46,7 +46,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 11,
     "weight": 190,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
   },
   {
     "id": 6,
@@ -54,7 +54,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire", "flying"],
     "height": 17,
     "weight": 905,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
   },
   {
     "id": 7,
@@ -62,7 +62,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 5,
     "weight": 90,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 10,
     "weight": 225,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 16,
     "weight": 855,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
   },
   {
     "id": 10,
@@ -86,7 +86,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug"],
     "height": 3,
     "weight": 29,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png"
   },
   {
     "id": 11,
@@ -94,7 +94,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug"],
     "height": 7,
     "weight": 99,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png"
   },
   {
     "id": 12,
@@ -102,7 +102,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "flying"],
     "height": 11,
     "weight": 320,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png"
   },
   {
     "id": 13,
@@ -110,7 +110,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "poison"],
     "height": 3,
     "weight": 32,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png"
   },
   {
     "id": 14,
@@ -118,7 +118,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "poison"],
     "height": 6,
     "weight": 100,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png"
   },
   {
     "id": 15,
@@ -126,7 +126,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "poison"],
     "height": 10,
     "weight": 295,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png"
   },
   {
     "id": 16,
@@ -134,7 +134,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 3,
     "weight": 18,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png"
   },
   {
     "id": 17,
@@ -142,7 +142,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 11,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png"
   },
   {
     "id": 18,
@@ -150,7 +150,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 15,
     "weight": 395,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png"
   },
   {
     "id": 19,
@@ -158,7 +158,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 3,
     "weight": 35,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png"
   },
   {
     "id": 20,
@@ -166,7 +166,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 7,
     "weight": 185,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png"
   },
   {
     "id": 21,
@@ -174,7 +174,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 3,
     "weight": 20,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png"
   },
   {
     "id": 22,
@@ -182,7 +182,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 12,
     "weight": 380,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png"
   },
   {
     "id": 23,
@@ -190,7 +190,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 20,
     "weight": 69,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png"
   },
   {
     "id": 24,
@@ -198,7 +198,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 35,
     "weight": 650,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png"
   },
   {
     "id": 25,
@@ -206,7 +206,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 4,
     "weight": 60,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png"
   },
   {
     "id": 26,
@@ -214,7 +214,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 8,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png"
   },
   {
     "id": 27,
@@ -222,7 +222,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 6,
     "weight": 120,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png"
   },
   {
     "id": 28,
@@ -230,7 +230,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 10,
     "weight": 295,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png"
   },
   {
     "id": 29,
@@ -238,7 +238,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 4,
     "weight": 70,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png"
   },
   {
     "id": 30,
@@ -246,7 +246,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 8,
     "weight": 200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png"
   },
   {
     "id": 31,
@@ -254,7 +254,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison", "ground"],
     "height": 13,
     "weight": 600,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png"
   },
   {
     "id": 32,
@@ -262,7 +262,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 5,
     "weight": 90,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png"
   },
   {
     "id": 33,
@@ -270,7 +270,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 9,
     "weight": 195,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png"
   },
   {
     "id": 34,
@@ -278,7 +278,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison", "ground"],
     "height": 14,
     "weight": 620,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png"
   },
   {
     "id": 35,
@@ -286,7 +286,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fairy"],
     "height": 6,
     "weight": 75,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png"
   },
   {
     "id": 36,
@@ -294,7 +294,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fairy"],
     "height": 13,
     "weight": 400,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png"
   },
   {
     "id": 37,
@@ -302,7 +302,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 6,
     "weight": 99,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png"
   },
   {
     "id": 38,
@@ -310,7 +310,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 11,
     "weight": 199,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png"
   },
   {
     "id": 39,
@@ -318,7 +318,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "fairy"],
     "height": 5,
     "weight": 55,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png"
   },
   {
     "id": 40,
@@ -326,7 +326,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "fairy"],
     "height": 10,
     "weight": 120,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png"
   },
   {
     "id": 41,
@@ -334,7 +334,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison", "flying"],
     "height": 8,
     "weight": 75,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png"
   },
   {
     "id": 42,
@@ -342,7 +342,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison", "flying"],
     "height": 16,
     "weight": 550,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png"
   },
   {
     "id": 43,
@@ -350,7 +350,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 5,
     "weight": 54,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png"
   },
   {
     "id": 44,
@@ -358,7 +358,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 8,
     "weight": 86,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png"
   },
   {
     "id": 45,
@@ -366,7 +366,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 12,
     "weight": 186,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png"
   },
   {
     "id": 46,
@@ -374,7 +374,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "grass"],
     "height": 3,
     "weight": 54,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png"
   },
   {
     "id": 47,
@@ -382,7 +382,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "grass"],
     "height": 10,
     "weight": 295,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png"
   },
   {
     "id": 48,
@@ -390,7 +390,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "poison"],
     "height": 10,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png"
   },
   {
     "id": 49,
@@ -398,7 +398,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "poison"],
     "height": 15,
     "weight": 125,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png"
   },
   {
     "id": 50,
@@ -406,7 +406,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 2,
     "weight": 8,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png"
   },
   {
     "id": 51,
@@ -414,7 +414,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 7,
     "weight": 333,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png"
   },
   {
     "id": 52,
@@ -422,7 +422,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 4,
     "weight": 42,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/052.png"
   },
   {
     "id": 53,
@@ -430,7 +430,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 10,
     "weight": 320,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/053.png"
   },
   {
     "id": 54,
@@ -438,7 +438,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 8,
     "weight": 196,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png"
   },
   {
     "id": 55,
@@ -446,7 +446,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 17,
     "weight": 766,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png"
   },
   {
     "id": 56,
@@ -454,7 +454,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 5,
     "weight": 280,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png"
   },
   {
     "id": 57,
@@ -462,7 +462,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 10,
     "weight": 320,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png"
   },
   {
     "id": 58,
@@ -470,7 +470,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 7,
     "weight": 190,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png"
   },
   {
     "id": 59,
@@ -478,7 +478,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 19,
     "weight": 1550,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png"
   },
   {
     "id": 60,
@@ -486,7 +486,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 6,
     "weight": 124,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png"
   },
   {
     "id": 61,
@@ -494,7 +494,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 10,
     "weight": 200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png"
   },
   {
     "id": 62,
@@ -502,7 +502,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "fighting"],
     "height": 13,
     "weight": 540,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png"
   },
   {
     "id": 63,
@@ -510,7 +510,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 9,
     "weight": 195,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png"
   },
   {
     "id": 64,
@@ -518,7 +518,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 13,
     "weight": 565,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png"
   },
   {
     "id": 65,
@@ -526,7 +526,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 15,
     "weight": 480,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png"
   },
   {
     "id": 66,
@@ -534,7 +534,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 8,
     "weight": 195,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png"
   },
   {
     "id": 67,
@@ -542,7 +542,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 15,
     "weight": 705,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png"
   },
   {
     "id": 68,
@@ -550,7 +550,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 16,
     "weight": 1300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png"
   },
   {
     "id": 69,
@@ -558,7 +558,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 7,
     "weight": 40,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png"
   },
   {
     "id": 70,
@@ -566,7 +566,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 10,
     "weight": 64,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png"
   },
   {
     "id": 71,
@@ -574,7 +574,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "poison"],
     "height": 17,
     "weight": 155,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png"
   },
   {
     "id": 72,
@@ -582,7 +582,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "poison"],
     "height": 9,
     "weight": 455,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png"
   },
   {
     "id": 73,
@@ -590,7 +590,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "poison"],
     "height": 16,
     "weight": 550,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png"
   },
   {
     "id": 74,
@@ -598,7 +598,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "ground"],
     "height": 4,
     "weight": 200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png"
   },
   {
     "id": 75,
@@ -606,7 +606,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "ground"],
     "height": 10,
     "weight": 1050,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png"
   },
   {
     "id": 76,
@@ -614,7 +614,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "ground"],
     "height": 14,
     "weight": 3000,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png"
   },
   {
     "id": 77,
@@ -622,7 +622,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 10,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png"
   },
   {
     "id": 78,
@@ -630,7 +630,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 17,
     "weight": 950,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png"
   },
   {
     "id": 79,
@@ -638,7 +638,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "psychic"],
     "height": 12,
     "weight": 360,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png"
   },
   {
     "id": 80,
@@ -646,7 +646,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "psychic"],
     "height": 16,
     "weight": 785,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png"
   },
   {
     "id": 81,
@@ -654,7 +654,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric", "steel"],
     "height": 3,
     "weight": 60,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png"
   },
   {
     "id": 82,
@@ -662,7 +662,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric", "steel"],
     "height": 10,
     "weight": 600,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png"
   },
   {
     "id": 83,
@@ -670,7 +670,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 8,
     "weight": 150,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png"
   },
   {
     "id": 84,
@@ -678,7 +678,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 14,
     "weight": 392,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png"
   },
   {
     "id": 85,
@@ -686,7 +686,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal", "flying"],
     "height": 18,
     "weight": 852,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png"
   },
   {
     "id": 86,
@@ -694,7 +694,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 11,
     "weight": 900,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png"
   },
   {
     "id": 87,
@@ -702,7 +702,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "ice"],
     "height": 17,
     "weight": 1200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png"
   },
   {
     "id": 88,
@@ -710,7 +710,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 9,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png"
   },
   {
     "id": 89,
@@ -718,7 +718,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 12,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png"
   },
   {
     "id": 90,
@@ -726,7 +726,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 3,
     "weight": 40,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png"
   },
   {
     "id": 91,
@@ -734,7 +734,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "ice"],
     "height": 15,
     "weight": 1325,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png"
   },
   {
     "id": 92,
@@ -742,7 +742,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ghost", "poison"],
     "height": 13,
     "weight": 1,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png"
   },
   {
     "id": 93,
@@ -750,7 +750,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ghost", "poison"],
     "height": 16,
     "weight": 1,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png"
   },
   {
     "id": 94,
@@ -758,7 +758,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ghost", "poison"],
     "height": 15,
     "weight": 405,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png"
   },
   {
     "id": 95,
@@ -766,7 +766,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "ground"],
     "height": 88,
     "weight": 2100,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png"
   },
   {
     "id": 96,
@@ -774,7 +774,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 10,
     "weight": 324,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png"
   },
   {
     "id": 97,
@@ -782,7 +782,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 16,
     "weight": 756,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png"
   },
   {
     "id": 98,
@@ -790,7 +790,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 4,
     "weight": 65,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png"
   },
   {
     "id": 99,
@@ -798,7 +798,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 13,
     "weight": 600,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png"
   },
   {
     "id": 100,
@@ -806,7 +806,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 5,
     "weight": 104,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png"
   },
   {
     "id": 101,
@@ -814,7 +814,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 12,
     "weight": 666,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png"
   },
   {
     "id": 102,
@@ -822,7 +822,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "psychic"],
     "height": 4,
     "weight": 25,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png"
   },
   {
     "id": 103,
@@ -830,7 +830,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass", "psychic"],
     "height": 20,
     "weight": 1200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png"
   },
   {
     "id": 104,
@@ -838,7 +838,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 4,
     "weight": 65,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png"
   },
   {
     "id": 105,
@@ -846,7 +846,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground"],
     "height": 10,
     "weight": 450,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png"
   },
   {
     "id": 106,
@@ -854,7 +854,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 15,
     "weight": 498,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png"
   },
   {
     "id": 107,
@@ -862,7 +862,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fighting"],
     "height": 14,
     "weight": 502,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png"
   },
   {
     "id": 108,
@@ -870,7 +870,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 12,
     "weight": 655,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png"
   },
   {
     "id": 109,
@@ -878,7 +878,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 6,
     "weight": 10,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png"
   },
   {
     "id": 110,
@@ -886,7 +886,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["poison"],
     "height": 12,
     "weight": 95,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png"
   },
   {
     "id": 111,
@@ -894,7 +894,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground", "rock"],
     "height": 10,
     "weight": 1150,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png"
   },
   {
     "id": 112,
@@ -902,7 +902,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ground", "rock"],
     "height": 19,
     "weight": 1200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png"
   },
   {
     "id": 113,
@@ -910,7 +910,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 11,
     "weight": 346,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png"
   },
   {
     "id": 114,
@@ -918,7 +918,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["grass"],
     "height": 10,
     "weight": 350,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png"
   },
   {
     "id": 115,
@@ -926,7 +926,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 22,
     "weight": 800,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/115.png"
   },
   {
     "id": 116,
@@ -934,7 +934,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 4,
     "weight": 80,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png"
   },
   {
     "id": 117,
@@ -942,7 +942,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 12,
     "weight": 250,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png"
   },
   {
     "id": 118,
@@ -950,7 +950,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 6,
     "weight": 150,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png"
   },
   {
     "id": 119,
@@ -958,7 +958,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 13,
     "weight": 390,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png"
   },
   {
     "id": 120,
@@ -966,7 +966,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 8,
     "weight": 345,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png"
   },
   {
     "id": 121,
@@ -974,7 +974,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "psychic"],
     "height": 11,
     "weight": 800,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png"
   },
   {
     "id": 122,
@@ -982,7 +982,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic", "fairy"],
     "height": 13,
     "weight": 545,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png"
   },
   {
     "id": 123,
@@ -990,7 +990,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug", "flying"],
     "height": 15,
     "weight": 560,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png"
   },
   {
     "id": 124,
@@ -998,7 +998,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ice", "psychic"],
     "height": 14,
     "weight": 406,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png"
   },
   {
     "id": 125,
@@ -1006,7 +1006,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 11,
     "weight": 300,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png"
   },
   {
     "id": 126,
@@ -1014,7 +1014,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 13,
     "weight": 445,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png"
   },
   {
     "id": 127,
@@ -1022,7 +1022,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["bug"],
     "height": 15,
     "weight": 550,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png"
   },
   {
     "id": 128,
@@ -1030,7 +1030,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 14,
     "weight": 884,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128.png"
   },
   {
     "id": 129,
@@ -1038,7 +1038,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 9,
     "weight": 100,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png"
   },
   {
     "id": 130,
@@ -1046,7 +1046,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "flying"],
     "height": 65,
     "weight": 2350,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png"
   },
   {
     "id": 131,
@@ -1054,7 +1054,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water", "ice"],
     "height": 25,
     "weight": 2200,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png"
   },
   {
     "id": 132,
@@ -1062,7 +1062,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 3,
     "weight": 40,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png"
   },
   {
     "id": 133,
@@ -1070,7 +1070,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 3,
     "weight": 65,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png"
   },
   {
     "id": 134,
@@ -1078,7 +1078,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["water"],
     "height": 10,
     "weight": 290,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png"
   },
   {
     "id": 135,
@@ -1086,7 +1086,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric"],
     "height": 8,
     "weight": 245,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png"
   },
   {
     "id": 136,
@@ -1094,7 +1094,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire"],
     "height": 9,
     "weight": 250,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png"
   },
   {
     "id": 137,
@@ -1102,7 +1102,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 8,
     "weight": 365,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/137.png"
   },
   {
     "id": 138,
@@ -1110,7 +1110,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "water"],
     "height": 4,
     "weight": 75,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png"
   },
   {
     "id": 139,
@@ -1118,7 +1118,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "water"],
     "height": 10,
     "weight": 350,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png"
   },
   {
     "id": 140,
@@ -1126,7 +1126,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "water"],
     "height": 5,
     "weight": 115,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png"
   },
   {
     "id": 141,
@@ -1134,7 +1134,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "water"],
     "height": 13,
     "weight": 405,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png"
   },
   {
     "id": 142,
@@ -1142,7 +1142,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["rock", "flying"],
     "height": 18,
     "weight": 590,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png"
   },
   {
     "id": 143,
@@ -1150,7 +1150,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["normal"],
     "height": 21,
     "weight": 4600,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png"
   },
   {
     "id": 144,
@@ -1158,7 +1158,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["ice", "flying"],
     "height": 17,
     "weight": 554,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png"
   },
   {
     "id": 145,
@@ -1166,7 +1166,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["electric", "flying"],
     "height": 16,
     "weight": 526,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png"
   },
   {
     "id": 146,
@@ -1174,7 +1174,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["fire", "flying"],
     "height": 20,
     "weight": 600,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png"
   },
   {
     "id": 147,
@@ -1182,7 +1182,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["dragon"],
     "height": 18,
     "weight": 33,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png"
   },
   {
     "id": 148,
@@ -1190,7 +1190,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["dragon"],
     "height": 40,
     "weight": 165,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png"
   },
   {
     "id": 149,
@@ -1198,7 +1198,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["dragon", "flying"],
     "height": 22,
     "weight": 2100,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png"
   },
   {
     "id": 150,
@@ -1206,7 +1206,7 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 20,
     "weight": 1220,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png"
   },
   {
     "id": 151,
@@ -1214,6 +1214,6 @@ export const POKEMONS: Pokemon[] = [
     "types": ["psychic"],
     "height": 4,
     "weight": 40,
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png"
   }
-]
+];
