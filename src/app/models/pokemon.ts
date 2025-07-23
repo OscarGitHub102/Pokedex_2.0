@@ -1186,7 +1186,7 @@ export const POKEMONS: Pokemon[] = [
   },
   {
     "id": 148,
-    "name": "dragónair",
+    "name": "dragonair",
     "types": ["dragón"],
     "height": 40,
     "weight": 165,
