@@ -1186,7 +1186,7 @@ export const POKEMONS: Pokemon[] = [
   },
   {
     "id": 148,
-    "name": "dragonair",
+    "name": "Dragonair",
     "types": ["dragón"],
     "height": 40,
     "weight": 165,
@@ -1194,7 +1194,7 @@ export const POKEMONS: Pokemon[] = [
   },
   {
     "id": 149,
-    "name": "dragónite",
+    "name": "Dragonite",
     "types": ["dragón", "volador"],
     "height": 22,
     "weight": 2100,
