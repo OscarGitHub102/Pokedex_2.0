@@ -11,7 +11,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 1,
     "name": "Bulbasaur",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 7,
     "weight": 69,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
@@ -19,7 +19,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 2,
     "name": "Ivysaur",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 10,
     "weight": 130,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
@@ -27,7 +27,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 3,
     "name": "Venusaur",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 20,
     "weight": 1000,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
@@ -35,7 +35,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 4,
     "name": "Charmander",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 6,
     "weight": 85,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
@@ -43,7 +43,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 5,
     "name": "Charmeleon",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 11,
     "weight": 190,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
@@ -51,7 +51,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 6,
     "name": "Charizard",
-    "types": ["fire", "flying"],
+    "types": ["fuego", "volador"],
     "height": 17,
     "weight": 905,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
@@ -59,7 +59,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 7,
     "name": "Squirtle",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 5,
     "weight": 90,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
@@ -67,7 +67,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 8,
     "name": "Wartortle",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 10,
     "weight": 225,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
@@ -75,7 +75,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 9,
     "name": "Blastoise",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 16,
     "weight": 855,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
@@ -83,7 +83,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 10,
     "name": "Caterpie",
-    "types": ["bug"],
+    "types": ["bicho"],
     "height": 3,
     "weight": 29,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png"
@@ -91,7 +91,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 11,
     "name": "Metapod",
-    "types": ["bug"],
+    "types": ["bicho"],
     "height": 7,
     "weight": 99,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png"
@@ -99,7 +99,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 12,
     "name": "Butterfree",
-    "types": ["bug", "flying"],
+    "types": ["bicho", "volador"],
     "height": 11,
     "weight": 320,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png"
@@ -107,7 +107,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 13,
     "name": "Weedle",
-    "types": ["bug", "poison"],
+    "types": ["bicho", "veneno"],
     "height": 3,
     "weight": 32,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png"
@@ -115,7 +115,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 14,
     "name": "Kakuna",
-    "types": ["bug", "poison"],
+    "types": ["bicho", "veneno"],
     "height": 6,
     "weight": 100,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png"
@@ -123,7 +123,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 15,
     "name": "Beedrill",
-    "types": ["bug", "poison"],
+    "types": ["bicho", "veneno"],
     "height": 10,
     "weight": 295,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png"
@@ -131,7 +131,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 16,
     "name": "Pidgey",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 3,
     "weight": 18,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png"
@@ -139,7 +139,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 17,
     "name": "Pidgeotto",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 11,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png"
@@ -147,7 +147,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 18,
     "name": "Pidgeot",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 15,
     "weight": 395,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png"
@@ -171,7 +171,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 21,
     "name": "Spearow",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 3,
     "weight": 20,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png"
@@ -179,7 +179,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 22,
     "name": "Fearow",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 12,
     "weight": 380,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png"
@@ -187,7 +187,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 23,
     "name": "Ekans",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 20,
     "weight": 69,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png"
@@ -195,7 +195,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 24,
     "name": "Arbok",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 35,
     "weight": 650,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png"
@@ -203,7 +203,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 25,
     "name": "Pikachu",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 4,
     "weight": 60,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png"
@@ -211,7 +211,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 26,
     "name": "Raichu",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 8,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png"
@@ -219,7 +219,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 27,
     "name": "Sandshrew",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 6,
     "weight": 120,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png"
@@ -227,7 +227,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 28,
     "name": "Sandslash",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 10,
     "weight": 295,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png"
@@ -235,7 +235,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 29,
     "name": "Nidoran♀",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 4,
     "weight": 70,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png"
@@ -243,7 +243,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 30,
     "name": "Nidorina",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 8,
     "weight": 200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png"
@@ -251,7 +251,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 31,
     "name": "Nidoqueen",
-    "types": ["poison", "ground"],
+    "types": ["veneno", "tierra"],
     "height": 13,
     "weight": 600,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png"
@@ -259,7 +259,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 32,
     "name": "Nidoran♂",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 5,
     "weight": 90,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png"
@@ -267,7 +267,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 33,
     "name": "Nidorino",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 9,
     "weight": 195,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png"
@@ -275,7 +275,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 34,
     "name": "Nidoking",
-    "types": ["poison", "ground"],
+    "types": ["veneno", "tierra"],
     "height": 14,
     "weight": 620,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png"
@@ -283,7 +283,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 35,
     "name": "Clefairy",
-    "types": ["fairy"],
+    "types": ["hada"],
     "height": 6,
     "weight": 75,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png"
@@ -291,7 +291,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 36,
     "name": "Clefable",
-    "types": ["fairy"],
+    "types": ["hada"],
     "height": 13,
     "weight": 400,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png"
@@ -299,7 +299,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 37,
     "name": "Vulpix",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 6,
     "weight": 99,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png"
@@ -307,7 +307,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 38,
     "name": "Ninetales",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 11,
     "weight": 199,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png"
@@ -315,7 +315,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 39,
     "name": "Jigglypuff",
-    "types": ["normal", "fairy"],
+    "types": ["normal", "hada"],
     "height": 5,
     "weight": 55,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png"
@@ -323,7 +323,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 40,
     "name": "Wigglytuff",
-    "types": ["normal", "fairy"],
+    "types": ["normal", "hada"],
     "height": 10,
     "weight": 120,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png"
@@ -331,7 +331,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 41,
     "name": "Zubat",
-    "types": ["poison", "flying"],
+    "types": ["veneno", "volador"],
     "height": 8,
     "weight": 75,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png"
@@ -339,7 +339,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 42,
     "name": "Golbat",
-    "types": ["poison", "flying"],
+    "types": ["veneno", "volador"],
     "height": 16,
     "weight": 550,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png"
@@ -347,7 +347,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 43,
     "name": "Oddish",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 5,
     "weight": 54,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png"
@@ -355,7 +355,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 44,
     "name": "Gloom",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 8,
     "weight": 86,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png"
@@ -363,7 +363,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 45,
     "name": "Vileplume",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 12,
     "weight": 186,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png"
@@ -371,7 +371,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 46,
     "name": "Paras",
-    "types": ["bug", "grass"],
+    "types": ["bicho", "planta"],
     "height": 3,
     "weight": 54,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png"
@@ -379,7 +379,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 47,
     "name": "Parasect",
-    "types": ["bug", "grass"],
+    "types": ["bicho", "planta"],
     "height": 10,
     "weight": 295,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png"
@@ -387,7 +387,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 48,
     "name": "Venonat",
-    "types": ["bug", "poison"],
+    "types": ["bicho", "veneno"],
     "height": 10,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png"
@@ -395,7 +395,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 49,
     "name": "Venomoth",
-    "types": ["bug", "poison"],
+    "types": ["bicho", "veneno"],
     "height": 15,
     "weight": 125,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png"
@@ -403,7 +403,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 50,
     "name": "Diglett",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 2,
     "weight": 8,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png"
@@ -411,7 +411,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 51,
     "name": "Dugtrio",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 7,
     "weight": 333,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png"
@@ -435,7 +435,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 54,
     "name": "Psyduck",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 8,
     "weight": 196,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png"
@@ -443,7 +443,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 55,
     "name": "Golduck",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 17,
     "weight": 766,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png"
@@ -451,7 +451,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 56,
     "name": "Mankey",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 5,
     "weight": 280,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png"
@@ -459,7 +459,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 57,
     "name": "Primeape",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 10,
     "weight": 320,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png"
@@ -467,7 +467,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 58,
     "name": "Growlithe",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 7,
     "weight": 190,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png"
@@ -475,7 +475,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 59,
     "name": "Arcanine",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 19,
     "weight": 1550,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png"
@@ -483,7 +483,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 60,
     "name": "Poliwag",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 6,
     "weight": 124,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png"
@@ -491,7 +491,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 61,
     "name": "Poliwhirl",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 10,
     "weight": 200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png"
@@ -499,7 +499,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 62,
     "name": "Poliwrath",
-    "types": ["water", "fighting"],
+    "types": ["agua", "lucha"],
     "height": 13,
     "weight": 540,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png"
@@ -507,7 +507,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 63,
     "name": "Abra",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 9,
     "weight": 195,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png"
@@ -515,7 +515,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 64,
     "name": "Kadabra",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 13,
     "weight": 565,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png"
@@ -523,7 +523,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 65,
     "name": "Alakazam",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 15,
     "weight": 480,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png"
@@ -531,7 +531,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 66,
     "name": "Machop",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 8,
     "weight": 195,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png"
@@ -539,7 +539,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 67,
     "name": "Machoke",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 15,
     "weight": 705,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png"
@@ -547,7 +547,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 68,
     "name": "Machamp",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 16,
     "weight": 1300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png"
@@ -555,7 +555,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 69,
     "name": "Bellsprout",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 7,
     "weight": 40,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png"
@@ -563,7 +563,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 70,
     "name": "Weepinbell",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 10,
     "weight": 64,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png"
@@ -571,7 +571,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 71,
     "name": "Victreebel",
-    "types": ["grass", "poison"],
+    "types": ["planta", "veneno"],
     "height": 17,
     "weight": 155,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png"
@@ -579,7 +579,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 72,
     "name": "Tentacool",
-    "types": ["water", "poison"],
+    "types": ["agua", "veneno"],
     "height": 9,
     "weight": 455,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png"
@@ -587,7 +587,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 73,
     "name": "Tentacruel",
-    "types": ["water", "poison"],
+    "types": ["agua", "veneno"],
     "height": 16,
     "weight": 550,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png"
@@ -595,7 +595,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 74,
     "name": "Geodude",
-    "types": ["rock", "ground"],
+    "types": ["roca", "tierra"],
     "height": 4,
     "weight": 200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png"
@@ -603,7 +603,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 75,
     "name": "Graveler",
-    "types": ["rock", "ground"],
+    "types": ["roca", "tierra"],
     "height": 10,
     "weight": 1050,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png"
@@ -611,7 +611,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 76,
     "name": "Golem",
-    "types": ["rock", "ground"],
+    "types": ["roca", "tierra"],
     "height": 14,
     "weight": 3000,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png"
@@ -619,7 +619,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 77,
     "name": "Ponyta",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 10,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png"
@@ -627,7 +627,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 78,
     "name": "Rapidash",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 17,
     "weight": 950,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png"
@@ -635,7 +635,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 79,
     "name": "Slowpoke",
-    "types": ["water", "psychic"],
+    "types": ["agua", "psíquico"],
     "height": 12,
     "weight": 360,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png"
@@ -643,7 +643,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 80,
     "name": "Slowbro",
-    "types": ["water", "psychic"],
+    "types": ["agua", "psíquico"],
     "height": 16,
     "weight": 785,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png"
@@ -651,7 +651,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 81,
     "name": "Magnemite",
-    "types": ["electric", "steel"],
+    "types": ["eléctrico", "acero"],
     "height": 3,
     "weight": 60,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png"
@@ -659,7 +659,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 82,
     "name": "Magneton",
-    "types": ["electric", "steel"],
+    "types": ["eléctrico", "acero"],
     "height": 10,
     "weight": 600,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png"
@@ -667,7 +667,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 83,
     "name": "Farfetch’d",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 8,
     "weight": 150,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png"
@@ -675,7 +675,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 84,
     "name": "Doduo",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 14,
     "weight": 392,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png"
@@ -683,7 +683,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 85,
     "name": "Dodrio",
-    "types": ["normal", "flying"],
+    "types": ["normal", "volador"],
     "height": 18,
     "weight": 852,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png"
@@ -691,7 +691,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 86,
     "name": "Seel",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 11,
     "weight": 900,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png"
@@ -699,7 +699,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 87,
     "name": "Dewgong",
-    "types": ["water", "ice"],
+    "types": ["agua", "hielo"],
     "height": 17,
     "weight": 1200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png"
@@ -707,7 +707,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 88,
     "name": "Grimer",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 9,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png"
@@ -715,7 +715,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 89,
     "name": "Muk",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 12,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png"
@@ -723,7 +723,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 90,
     "name": "Shellder",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 3,
     "weight": 40,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png"
@@ -731,7 +731,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 91,
     "name": "Cloyster",
-    "types": ["water", "ice"],
+    "types": ["agua", "hielo"],
     "height": 15,
     "weight": 1325,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png"
@@ -739,7 +739,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 92,
     "name": "Gastly",
-    "types": ["ghost", "poison"],
+    "types": ["fantasma", "veneno"],
     "height": 13,
     "weight": 1,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png"
@@ -747,7 +747,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 93,
     "name": "Haunter",
-    "types": ["ghost", "poison"],
+    "types": ["fantasma", "veneno"],
     "height": 16,
     "weight": 1,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png"
@@ -755,7 +755,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 94,
     "name": "Gengar",
-    "types": ["ghost", "poison"],
+    "types": ["fantasma", "veneno"],
     "height": 15,
     "weight": 405,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png"
@@ -763,7 +763,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 95,
     "name": "Onix",
-    "types": ["rock", "ground"],
+    "types": ["roca", "tierra"],
     "height": 88,
     "weight": 2100,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png"
@@ -771,7 +771,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 96,
     "name": "Drowzee",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 10,
     "weight": 324,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png"
@@ -779,7 +779,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 97,
     "name": "Hypno",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 16,
     "weight": 756,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png"
@@ -787,7 +787,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 98,
     "name": "Krabby",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 4,
     "weight": 65,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png"
@@ -795,7 +795,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 99,
     "name": "Kingler",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 13,
     "weight": 600,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png"
@@ -803,7 +803,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 100,
     "name": "Voltorb",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 5,
     "weight": 104,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png"
@@ -811,7 +811,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 101,
     "name": "Electrode",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 12,
     "weight": 666,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png"
@@ -819,7 +819,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 102,
     "name": "Exeggcute",
-    "types": ["grass", "psychic"],
+    "types": ["planta", "psíquico"],
     "height": 4,
     "weight": 25,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png"
@@ -827,7 +827,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 103,
     "name": "Exeggutor",
-    "types": ["grass", "psychic"],
+    "types": ["planta", "psíquico"],
     "height": 20,
     "weight": 1200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png"
@@ -835,7 +835,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 104,
     "name": "Cubone",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 4,
     "weight": 65,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png"
@@ -843,7 +843,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 105,
     "name": "Marowak",
-    "types": ["ground"],
+    "types": ["tierra"],
     "height": 10,
     "weight": 450,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png"
@@ -851,7 +851,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 106,
     "name": "Hitmonlee",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 15,
     "weight": 498,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png"
@@ -859,7 +859,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 107,
     "name": "Hitmonchan",
-    "types": ["fighting"],
+    "types": ["lucha"],
     "height": 14,
     "weight": 502,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png"
@@ -875,7 +875,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 109,
     "name": "Koffing",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 6,
     "weight": 10,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png"
@@ -883,7 +883,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 110,
     "name": "Weezing",
-    "types": ["poison"],
+    "types": ["veneno"],
     "height": 12,
     "weight": 95,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png"
@@ -891,7 +891,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 111,
     "name": "Rhyhorn",
-    "types": ["ground", "rock"],
+    "types": ["tierra", "roca"],
     "height": 10,
     "weight": 1150,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png"
@@ -899,7 +899,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 112,
     "name": "Rhydon",
-    "types": ["ground", "rock"],
+    "types": ["tierra", "roca"],
     "height": 19,
     "weight": 1200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png"
@@ -915,7 +915,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 114,
     "name": "Tangela",
-    "types": ["grass"],
+    "types": ["planta"],
     "height": 10,
     "weight": 350,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png"
@@ -931,7 +931,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 116,
     "name": "Horsea",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 4,
     "weight": 80,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png"
@@ -939,7 +939,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 117,
     "name": "Seadra",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 12,
     "weight": 250,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png"
@@ -947,7 +947,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 118,
     "name": "Goldeen",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 6,
     "weight": 150,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png"
@@ -955,7 +955,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 119,
     "name": "Seaking",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 13,
     "weight": 390,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png"
@@ -963,7 +963,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 120,
     "name": "Staryu",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 8,
     "weight": 345,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png"
@@ -971,7 +971,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 121,
     "name": "Starmie",
-    "types": ["water", "psychic"],
+    "types": ["agua", "psíquico"],
     "height": 11,
     "weight": 800,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png"
@@ -979,7 +979,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 122,
     "name": "Mr. Mime",
-    "types": ["psychic", "fairy"],
+    "types": ["psíquico", "hada"],
     "height": 13,
     "weight": 545,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png"
@@ -987,7 +987,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 123,
     "name": "Scyther",
-    "types": ["bug", "flying"],
+    "types": ["bicho", "volador"],
     "height": 15,
     "weight": 560,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png"
@@ -995,7 +995,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 124,
     "name": "Jynx",
-    "types": ["ice", "psychic"],
+    "types": ["hielo", "psíquico"],
     "height": 14,
     "weight": 406,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png"
@@ -1003,7 +1003,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 125,
     "name": "Electabuzz",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 11,
     "weight": 300,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png"
@@ -1011,7 +1011,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 126,
     "name": "Magmar",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 13,
     "weight": 445,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png"
@@ -1019,7 +1019,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 127,
     "name": "Pinsir",
-    "types": ["bug"],
+    "types": ["bicho"],
     "height": 15,
     "weight": 550,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png"
@@ -1035,7 +1035,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 129,
     "name": "Magikarp",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 9,
     "weight": 100,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png"
@@ -1043,7 +1043,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 130,
     "name": "Gyarados",
-    "types": ["water", "flying"],
+    "types": ["agua", "volador"],
     "height": 65,
     "weight": 2350,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png"
@@ -1051,7 +1051,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 131,
     "name": "Lapras",
-    "types": ["water", "ice"],
+    "types": ["agua", "hielo"],
     "height": 25,
     "weight": 2200,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png"
@@ -1075,7 +1075,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 134,
     "name": "Vaporeon",
-    "types": ["water"],
+    "types": ["agua"],
     "height": 10,
     "weight": 290,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png"
@@ -1083,7 +1083,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 135,
     "name": "Jolteon",
-    "types": ["electric"],
+    "types": ["eléctrico"],
     "height": 8,
     "weight": 245,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png"
@@ -1091,7 +1091,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 136,
     "name": "Flareon",
-    "types": ["fire"],
+    "types": ["fuego"],
     "height": 9,
     "weight": 250,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png"
@@ -1107,7 +1107,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 138,
     "name": "Omanyte",
-    "types": ["rock", "water"],
+    "types": ["roca", "agua"],
     "height": 4,
     "weight": 75,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png"
@@ -1115,7 +1115,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 139,
     "name": "Omastar",
-    "types": ["rock", "water"],
+    "types": ["roca", "agua"],
     "height": 10,
     "weight": 350,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png"
@@ -1123,7 +1123,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 140,
     "name": "Kabuto",
-    "types": ["rock", "water"],
+    "types": ["roca", "agua"],
     "height": 5,
     "weight": 115,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png"
@@ -1131,7 +1131,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 141,
     "name": "Kabutops",
-    "types": ["rock", "water"],
+    "types": ["roca", "agua"],
     "height": 13,
     "weight": 405,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png"
@@ -1139,7 +1139,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 142,
     "name": "Aerodactyl",
-    "types": ["rock", "flying"],
+    "types": ["roca", "volador"],
     "height": 18,
     "weight": 590,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png"
@@ -1155,7 +1155,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 144,
     "name": "Articuno",
-    "types": ["ice", "flying"],
+    "types": ["hielo", "volador"],
     "height": 17,
     "weight": 554,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png"
@@ -1163,7 +1163,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 145,
     "name": "Zapdos",
-    "types": ["electric", "flying"],
+    "types": ["eléctrico", "volador"],
     "height": 16,
     "weight": 526,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png"
@@ -1171,7 +1171,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 146,
     "name": "Moltres",
-    "types": ["fire", "flying"],
+    "types": ["fuego", "volador"],
     "height": 20,
     "weight": 600,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png"
@@ -1179,7 +1179,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 147,
     "name": "Dratini",
-    "types": ["dragon"],
+    "types": ["dragón"],
     "height": 18,
     "weight": 33,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png"
@@ -1187,7 +1187,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 148,
     "name": "Dragonair",
-    "types": ["dragon"],
+    "types": ["dragón"],
     "height": 40,
     "weight": 165,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png"
@@ -1195,7 +1195,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 149,
     "name": "Dragonite",
-    "types": ["dragon", "flying"],
+    "types": ["dragón", "volador"],
     "height": 22,
     "weight": 2100,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png"
@@ -1203,7 +1203,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 150,
     "name": "Mewtwo",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 20,
     "weight": 1220,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png"
@@ -1211,7 +1211,7 @@ export const POKEMONS: Pokemon[] = [
   {
     "id": 151,
     "name": "Mew",
-    "types": ["psychic"],
+    "types": ["psíquico"],
     "height": 4,
     "weight": 40,
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png"
