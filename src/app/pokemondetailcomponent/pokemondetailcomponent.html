@@ -1,17 +1,38 @@
 @if(pokemon){
-    <div class="pokemonDetail" [style.background-color]="backgroundColor">
-        <h1>{{ pokemon.name }}</h1>
-        <img [src]="pokemon.image" [alt]="pokemon.name">
+  <div class="pokemonDetail" [style.background-color]="backgroundColor">
+    <div class="pokemon-header">
 
-        <div class="info">
-            <p><strong>ID:</strong> {{ pokemon.id }}</p>
-            <p><strong>Tipo:</strong>{{ " " + getPokemonTypes(pokemon.types) }}</p>
-            <p><strong>Altura:</strong> {{ pokemon.height / 10 }} m</p>
-            <p><strong>Peso:</strong> {{ pokemon.weight / 10 }} kg</p>
-        </div>
-    </div>   
-}@else {
-    <div class="pokemonDetail">
-        <p>Selecciona un Pokémon para ver sus detalles.</p>
+        @if (hasGigamax) {
+            <img src="assets/gigamax.webp" (click)="toggleGigamax()" [ngClass]="{'active-super': isGigamaxActive}" alt="gigamax" class="supers-icon">
+        }
+
+        <h1>{{ currentName }}</h1>
+        
+        @if (hasMegaevolution) {
+            <img [src]="pokemonMegaevolution?.stone" (click)="toggleMega()" [ngClass]="{'active-super': isMegaActive}" alt="megaevolution" class="supers-icon">
+            @if (pokemonMegaevolution2) {
+              <img [src]="pokemonMegaevolution2.stone" (click)="toggleMega2()" [ngClass]="{'active-super': isMegaActive2}" alt="megaevolution" class="supers-icon">
+            }
+        }
+    
     </div>
+
+    <img [src]="currentImage" [alt]="currentName" class="pokemon-main-image">
+
+    <div class="info">
+      <p><strong>ID:</strong> {{ pokemon.id }}</p>
+      <p><strong>Tipo:</strong>{{ " " + getPokemonTypes(currentTypes) }}</p>
+      @if (isGigamaxActive) {
+        <p><strong>Altura:</strong> {{ currentHeightGigamax }} m</p>
+        <p><strong>Movimiento Gigamax:</strong> {{ currentMovement }}</p>
+      }@else {
+        <p><strong>Altura:</strong> {{ currentHeight }} m</p>
+        <p><strong>Peso:</strong> {{ currentWeight }} kg</p>
+      }
+    </div>
+  </div>
+}@else {
+  <div class="pokemonDetail">
+    <p>Selecciona un Pokémon para ver sus detalles.</p>
+  </div>
 }

@@ -1,4 +1,4 @@
-.pokemonDetail{
+.pokemonDetail {
     font-family: 'IBM Plex Sans';
     background-color: #C4CEE6;
     text-align: center;
@@ -9,17 +9,46 @@
     margin-right: 15px;
     margin-bottom: 15px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(148, 163, 184, 0.6); /* sombra difuminada */
+    box-shadow: 0 0 15px rgba(148, 163, 184, 0.6);
     border: 2px solid rgba(148, 163, 184, 0.4);
 }
 
+.pokemon-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
 .pokemonDetail h1 {
+  text-align: center;
   font-size: 2.5rem;
-  margin-bottom: 1rem;
   color: black;
 }
 
-.pokemonDetail img {
+.supers-icon {
+  width: 40px;
+  height: 40px;
+  cursor: pointer; /* Para indicar que es clickeable */
+  transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out; /* Transición suave para el efecto */
+}
+
+.supers-icon:hover {
+  transform: scale(1.1); /* Efecto al pasar el ratón */
+  filter: drop-shadow(0 0 5px #000);
+}
+
+/* Nuevas reglas para la iluminación */
+.supers-icon.active-super {
+  width: 50px;
+  height: 50px;
+  filter: brightness(1.25) drop-shadow(0 0 10px rgba(255, 0, 0, 0.7)); /* Brillo y resplandor dorado */
+  /* Puedes experimentar con otros efectos: */
+  /* box-shadow: 0 0 15px 5px rgba(255, 255, 0, 0.8); */
+  /* border: 2px solid gold; */
+}
+
+.pokemon-main-image {
   width: 300px;
   height: 300px;
 }
