@@ -46,7 +46,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         types: ['agua'],
         height: 1.6,
         weight: 101.1,
-        image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9a/latest/20180809160020/Mega-Blastoise.png/520px-Mega-Blastoise.png',
+        image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/39/latest/20160309232803/Mega-Charizard_Y.png/520px-Mega-Charizard_Y.png',
 
     },
     {
