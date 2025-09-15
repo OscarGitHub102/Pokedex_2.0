@@ -69,6 +69,24 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
     },
     {
         id: 7,
+        name: 'Mega-Raichu X',
+        stone: "https://www.pokewiki.de/images/3/32/Artwork_Schlüssel-Stein.png",
+        types: ['eléctrico'],
+        height: 1.2,
+        weight: 38.0,
+        image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7d/latest/20250912172809/Mega-Raichu_X.png/480px-Mega-Raichu_X.png',
+    },
+    {
+        id: 8,
+        name: 'Mega-Raichu Y',
+        stone: "https://www.pokewiki.de/images/3/32/Artwork_Schlüssel-Stein.png",
+        types: ['eléctrico'],
+        height: 1.0,
+        weight: 26.0,
+        image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f1/latest/20250912172828/Mega-Raichu_Y.png/480px-Mega-Raichu_Y.png',
+    },
+    {
+        id: 9,
         name: 'Mega-Alakazam',
         stone: "https://static.wikia.nocookie.net/espokemon/images/0/0c/Alakazamita_%28Dream_World%29.png",
         types: ['psíquico'],
@@ -77,7 +95,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/d/d2/latest/20200428210207/Mega-Alakazam.png',
     },
     {
-        id: 8,
+        id: 10,
         name: 'Mega-Victreebel',
         stone: "https://www.pokewiki.de/images/3/32/Artwork_Schlüssel-Stein.png",
         types: ['planta', 'veneno'],
@@ -86,7 +104,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9b/latest/20250821132434/Mega-Victreebel.png/520px-Mega-Victreebel.png',
     },
     {
-        id: 9,
+        id: 11,
         name: 'Mega-Slowbro',
         stone: "https://static.wikia.nocookie.net/espokemon/images/1/16/Slowbronita_%28dream_world%29.png",
         types: ['agua', 'psíquico'],
@@ -95,7 +113,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/76/latest/20141013115645/Mega-Slowbro.png/520px-Mega-Slowbro.png',
     },
     {
-        id: 10,
+        id: 12,
         name: 'Mega-Gengar',
         stone: "https://static.wikia.nocookie.net/espokemon/images/9/9c/Gengarita_%28Dream_World%29.png",
         types: ['fantasma', 'veneno'],
@@ -104,7 +122,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/28/latest/20190430164721/Mega-Gengar.png/520px-Mega-Gengar.png',
     },
     {
-        id: 11,
+        id: 13,
         name: 'Mega-Kangaskhan',
         stone: "https://static.wikia.nocookie.net/espokemon/images/3/35/Kangaskhanita_%28Dream_World%29.png",
         types: ['normal'],
@@ -113,7 +131,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e9/latest/20190430165416/Mega-Kangaskhan.png/520px-Mega-Kangaskhan.png',
     },
     {
-        id: 12,
+        id: 14,
         name: 'Mega-Pinsir',
         stone: "https://static.wikia.nocookie.net/espokemon/images/5/5c/Pinsirita_%28Dream_World%29.png",
         types: ['bicho', 'volador'],
@@ -122,7 +140,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0c/latest/20190430193105/Mega-Pinsir.png/520px-Mega-Pinsir.png',
     },
     {
-        id: 13,
+        id: 15,
         name: 'Mega-Gyarados',
         stone: "https://static.wikia.nocookie.net/espokemon/images/3/30/Gyaradosita_%28Dream_World%29.png",
         types: ['agua', 'siniestro'],
@@ -131,7 +149,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/2/23/latest/20200428203216/Mega-Gyarados.png',
     },
     {
-        id: 14,
+        id: 16,
         name: 'Mega-Aerodactyl',
         stone: "https://static.wikia.nocookie.net/espokemon/images/9/94/Aerodactylita_%28Dream_World%29.png",
         types: ['roca', 'volador'],
@@ -140,7 +158,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b0/latest/20160831130800/Mega-Aerodactyl.png/520px-Mega-Aerodactyl.png',
     },
     {
-        id: 15,
+        id: 17,
         name: 'Mega-Dragonite',
         stone: "https://www.pokewiki.de/images/3/32/Artwork_Schlüssel-Stein.png",
         types: ['dragón', 'volador'],
@@ -149,7 +167,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cc/latest/20250722221047/Mega-Dragonite.png/520px-Mega-Dragonite.png',
     },
     {
-        id: 16,
+        id: 18,
         name: 'Mega-Mewtwo X',
         stone: "https://static.wikia.nocookie.net/espokemon/images/b/bd/Mewtwoita_X_%28Dream_World%29.png",
         types: ['psíquico', 'lucha'],
@@ -158,7 +176,7 @@ export const POKEMONS_MEGAEVOLUTIONS: PokemonMegaevolution[] = [
         image: 'https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e2/latest/20190430185345/Mega-Mewtwo_X.png/520px-Mega-Mewtwo_X.png',
     },
     {
-        id: 17,
+        id: 19,
         name: 'Mega-Mewtwo Y',
         stone: "https://static.wikia.nocookie.net/espokemon/images/9/92/Mewtwoita_Y_%28Dream_World%29.png",
         types: ['psíquico'],
